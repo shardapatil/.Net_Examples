@@ -11,7 +11,6 @@ namespace ODL_Bootcamp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
         }
 
         protected void btnDispYear_Click(object sender, EventArgs e)
