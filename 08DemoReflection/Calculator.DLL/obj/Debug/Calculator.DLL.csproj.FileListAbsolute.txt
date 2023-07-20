@@ -1,0 +1,6 @@
+D:\Nashik03-04-2023\DOTNET\08DemoReflection\Calculator.DLL\bin\Debug\Calculator.DLL.dll
+D:\Nashik03-04-2023\DOTNET\08DemoReflection\Calculator.DLL\bin\Debug\Calculator.DLL.pdb
+D:\Nashik03-04-2023\DOTNET\08DemoReflection\Calculator.DLL\obj\Debug\Calculator.DLL.csproj.AssemblyReference.cache
+D:\Nashik03-04-2023\DOTNET\08DemoReflection\Calculator.DLL\obj\Debug\Calculator.DLL.csproj.CoreCompileInputs.cache
+D:\Nashik03-04-2023\DOTNET\08DemoReflection\Calculator.DLL\obj\Debug\Calculator.DLL.dll
+D:\Nashik03-04-2023\DOTNET\08DemoReflection\Calculator.DLL\obj\Debug\Calculator.DLL.pdb

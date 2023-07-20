@@ -1,0 +1,8 @@
+D:\Nashik03-04-2023\DOTNET\08DemoReflection\08DemoReflection\bin\Debug\08DemoReflection.exe.config
+D:\Nashik03-04-2023\DOTNET\08DemoReflection\08DemoReflection\bin\Debug\08DemoReflection.exe
+D:\Nashik03-04-2023\DOTNET\08DemoReflection\08DemoReflection\bin\Debug\08DemoReflection.pdb
+D:\Nashik03-04-2023\DOTNET\08DemoReflection\08DemoReflection\obj\Debug\08DemoReflection.csproj.AssemblyReference.cache
+D:\Nashik03-04-2023\DOTNET\08DemoReflection\08DemoReflection\obj\Debug\08DemoReflection.csproj.SuggestedBindingRedirects.cache
+D:\Nashik03-04-2023\DOTNET\08DemoReflection\08DemoReflection\obj\Debug\08DemoReflection.csproj.CoreCompileInputs.cache
+D:\Nashik03-04-2023\DOTNET\08DemoReflection\08DemoReflection\obj\Debug\08DemoReflection.exe
+D:\Nashik03-04-2023\DOTNET\08DemoReflection\08DemoReflection\obj\Debug\08DemoReflection.pdb
