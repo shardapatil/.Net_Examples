@@ -8,13 +8,9 @@ namespace Session
         {
             
             if (data == input)
-            
                 return "Same"; 
-
             else
-
                 return "Not Same";
-            
             return null;
         }
 
@@ -22,7 +18,6 @@ namespace Session
         {
             static void Main(string[] args)
             {
-
                 Program p = new Program();
                 p.data = 32;
                 Console.WriteLine(p.process(32));
@@ -30,7 +25,6 @@ namespace Session
                 Program pl = new Program();
                 pl.data = "Apple";
                 Console.WriteLine(pl.process("Apple"));
-
             }
         }
     }
